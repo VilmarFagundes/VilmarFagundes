@@ -5,7 +5,23 @@
 - 😄 Pronomes: ele/dele
 
   ##
-  
+
+<div> 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
+    media="(prefers-color-scheme: shadow_red)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
+    media="(prefers-color-scheme: shadow_red), (prefers-color-scheme: shadow_red)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" />
+</picture>
+</div>
+
+##
+
 <div>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
