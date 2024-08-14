@@ -10,25 +10,25 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
-    media="(prefers-color-scheme: shadow_red)"
+    media="(prefers-color-scheme: midnight-purple)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
-    media="(prefers-color-scheme: shadow_red), (prefers-color-scheme: shadow_red)"
+    media="(prefers-color-scheme: midnight-purple), (prefers-color-scheme: midnight-purple)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" />
 </picture>
 
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
-    media="(prefers-color-scheme: shadow_red)"
+    media="(prefers-color-scheme: midnight-purple)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
-    media="(prefers-color-scheme: shadow_red), (prefers-color-scheme: shadow_red)"
+    media="(prefers-color-scheme: midnight-purple), (prefers-color-scheme: midnight-purple)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" />
 </picture>
 </div>
 
