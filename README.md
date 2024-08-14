@@ -18,6 +18,18 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" />
 </picture>
+
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
+    media="(prefers-color-scheme: shadow_red)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
+    media="(prefers-color-scheme: shadow_red), (prefers-color-scheme: shadow_red)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" />
+</picture>
 </div>
 
 ##
