@@ -9,25 +9,25 @@
 <div> 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
+    srcset="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple&repo=github-readme-stats"
     media="(prefers-color-scheme: midnight-purple)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
+    srcset="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple&repo=github-readme-stats"
     media="(prefers-color-scheme: midnight-purple), (prefers-color-scheme: midnight-purple)"
   />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=VilmarFagundes&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple&repo=github-readme-stats" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&layout=compact&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&layout=compact&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple&repo=convoychat"
     media="(prefers-color-scheme: midnight-purple)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&layout=compact&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&layout=compact&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple&repo=convoychat"
     media="(prefers-color-scheme: midnight-purple), (prefers-color-scheme: midnight-purple)"
   />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&layout=compact&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&layout=compact&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple&repo=convoychat" />
 </picture>
 </div>
 
