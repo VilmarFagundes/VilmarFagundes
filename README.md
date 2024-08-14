@@ -20,14 +20,14 @@
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&layout=compact&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple&repo=convoychat"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&layout=compact&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
     media="(prefers-color-scheme: midnight-purple)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&layout=compact&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple&repo=convoychat"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&layout=compact&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
     media="(prefers-color-scheme: midnight-purple), (prefers-color-scheme: midnight-purple)"
   />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&layout=compact&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple&repo=convoychat" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilmarFagundes&layout=compact&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" />
 </picture>
 </div>
 
